@@ -5,3 +5,5 @@ Collection of code that is useful. Toolbox for me, but I'm happy to share things
 # South African Identification Number (RSAID / SAID)
 filename : tsql-decode-rsaid.sql.  
 description : decodes the RSAID and extracts the values for use.
+
+https://www.westerncape.gov.za/general-publication/decoding-your-south-african-id-number-0
